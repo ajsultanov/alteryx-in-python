@@ -13,21 +13,18 @@
 
 - Open project folder in VSCode
 - Open terminal
-
-`> sqlite3 [database name].db` creates database file
-
-`> .mode csv`
-
-`> .mode` to check it's been changed from list
-
-`> .import [file name].csv [file name in database]` imports table
-
-ex: `.import sales.csv sales`
-
-`> .schema` to check table
-
-`> .exit` to close sqlite
-
+- `> sqlite3 [database name].db` 
+  - creates database file
+- `> .mode csv`
+- `> .mode` 
+  - to check it's been changed from list
+- `> .import [file name].csv [file name in database]` 
+  - imports table
+  - ex: `.import sales.csv sales`
+- `> .schema` 
+  - to check table
+- `> .exit` 
+  - to close sqlite
 - Can close terminal
 - Click on database icon on left side panel
 - Create new connection
