@@ -1,0 +1,11 @@
+employee,Manager,Hierarchy
+Analyst,Manager,1
+Analyst,Director,2
+Analyst,Vice President,3
+Analyst,CEO,4
+Director,Vice President,1
+Director,CEO,2
+Manager,Director,1
+Manager,Vice President,2
+Manager,CEO,3
+Vice President,CEO,1
