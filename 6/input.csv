@@ -1,50 +1,50 @@
-Airport City,REP,TripOrder
-"Hartford-West Hartford-East Hartford, CT Metro",Cathy,1
-"Indianapolis-Carmel-Anderson, IN Metro",Cathy,2
-"Springfield, MA Metro",Cathy,3
-"Reno, NV Metro",Cathy,4
-"Cleveland-Elyria, OH Metro",Cathy,5
-"Knoxville, TN Metro",Cathy,6
-"Madison, WI Metro",Cathy,7
-"Phoenix-Mesa-Scottsdale, AZ Metro",Dan,1
-"Miami-Fort Lauderdale-West Palm Beach, FL Metro",Dan,2
-"Lexington-Fayette, KY Metro",Dan,3
-"Jackson, MS Metro",Dan,4
-"Albuquerque, NM Metro",Dan,5
-"Pittsburgh, PA Metro",Dan,6
-"Burlington-South Burlington, VT Metro",Dan,7
-"Los Angeles-Long Beach-Anaheim, CA Metro",Diana,1
-"Boise City, ID Metro",Diana,2
-"Bangor, ME Metro",Diana,3
-"Billings, MT Metro",Diana,4
-"Durham-Chapel Hill, NC Metro",Diana,5
-"Myrtle Beach-Conway-North Myrtle Beach, SC-NC Metro",Diana,6
-"Seattle-Tacoma-Bellevue, WA Metro",Diana,7
-"Tuscaloosa, AL Metro",James,1
-"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro",James,2
-"Topeka, KS Metro",James,3
-"Minneapolis-St. Paul-Bloomington, MN-WI Metro",James,4
-"Atlantic City-Hammonton, NJ Metro",James,5
-"Eugene, OR Metro",James,6
-"Salt Lake City, UT Metro",James,7
-"Fayetteville-Springdale-Rogers, AR-MO Metro",Mark,1
-"Atlanta-Sandy Springs-Roswell, GA Metro",Mark,2
-"New Orleans-Metairie, LA Metro",Mark,3
-"Columbia, MO Metro",Mark,4
-"Rochester, NY Metro",Mark,5
-"Providence-Warwick, RI-MA Metro",Mark,6
-"Richmond, VA Metro",Mark,7
-"Denver-Aurora-Lakewood, CO Metro",Scott,1
-"Chicago-Naperville-Elgin, IL-IN-WI Metro",Scott,2
-"Baltimore-Columbia-Towson, MD Metro",Scott,3
-"Lincoln, NE Metro",Scott,4
-"Fargo, ND-MN Metro",Scott,5
-"Sioux Falls, SD Metro",Scott,6
-"Morgantown, WV Metro",Scott,7
-"Dover, DE Metro",Steve,1
-"Cedar Rapids, IA Metro",Steve,2
-"Detroit-Warren-Dearborn, MI Metro",Steve,3
-"Manchester-Nashua, NH Metro",Steve,4
-"Oklahoma City, OK Metro",Steve,5
-"Dallas-Fort Worth-Arlington, TX Metro",Steve,6
-"Cheyenne, WY Metro",Steve,7
+Airport City,Centroid,REP,TripOrder
+"Hartford-West Hartford-East Hartford, CT Metro","{ ""type"": ""Point"", ""coordinates"": [ -72.577485, 41.735909 ] }",Cathy,1
+"Indianapolis-Carmel-Anderson, IN Metro","{ ""type"": ""Point"", ""coordinates"": [ -86.206137, 39.747431 ] }",Cathy,2
+"Springfield, MA Metro","{ ""type"": ""Point"", ""coordinates"": [ -72.646741, 42.230068 ] }",Cathy,3
+"Reno, NV Metro","{ ""type"": ""Point"", ""coordinates"": [ -119.660656, 40.638609 ] }",Cathy,4
+"Cleveland-Elyria, OH Metro","{ ""type"": ""Point"", ""coordinates"": [ -81.683882, 41.375258 ] }",Cathy,5
+"Knoxville, TN Metro","{ ""type"": ""Point"", ""coordinates"": [ -84.138485, 36.047549 ] }",Cathy,6
+"Madison, WI Metro","{ ""type"": ""Point"", ""coordinates"": [ -89.591695, 43.078509 ] }",Cathy,7
+"Phoenix-Mesa-Scottsdale, AZ Metro","{ ""type"": ""Point"", ""coordinates"": [ -112.070554, 33.185508 ] }",Dan,1
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro","{ ""type"": ""Point"", ""coordinates"": [ -80.497102, 26.129562 ] }",Dan,2
+"Lexington-Fayette, KY Metro","{ ""type"": ""Point"", ""coordinates"": [ -84.432749, 38.090933 ] }",Dan,3
+"Jackson, MS Metro","{ ""type"": ""Point"", ""coordinates"": [ -90.222604, 32.315710 ] }",Dan,4
+"Albuquerque, NM Metro","{ ""type"": ""Point"", ""coordinates"": [ -106.471533, 35.122281 ] }",Dan,5
+"Pittsburgh, PA Metro","{ ""type"": ""Point"", ""coordinates"": [ -79.830873, 40.439120 ] }",Dan,6
+"Burlington-South Burlington, VT Metro","{ ""type"": ""Point"", ""coordinates"": [ -72.987392, 44.685176 ] }",Dan,7
+"Los Angeles-Long Beach-Anaheim, CA Metro","{ ""type"": ""Point"", ""coordinates"": [ -118.149366, 34.222183 ] }",Diana,1
+"Boise City, ID Metro","{ ""type"": ""Point"", ""coordinates"": [ -116.143190, 43.012347 ] }",Diana,2
+"Bangor, ME Metro","{ ""type"": ""Point"", ""coordinates"": [ -68.649614, 45.401569 ] }",Diana,3
+"Billings, MT Metro","{ ""type"": ""Point"", ""coordinates"": [ -108.718932, 45.780888 ] }",Diana,4
+"Durham-Chapel Hill, NC Metro","{ ""type"": ""Point"", ""coordinates"": [ -79.099669, 35.990862 ] }",Diana,5
+"Myrtle Beach-Conway-North Myrtle Beach, SC-NC Metro","{ ""type"": ""Point"", ""coordinates"": [ -78.687107, 33.975596 ] }",Diana,6
+"Seattle-Tacoma-Bellevue, WA Metro","{ ""type"": ""Point"", ""coordinates"": [ -121.847665, 47.557175 ] }",Diana,7
+"Tuscaloosa, AL Metro","{ ""type"": ""Point"", ""coordinates"": [ -87.721321, 33.168895 ] }",James,1
+"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro","{ ""type"": ""Point"", ""coordinates"": [ -77.479410, 38.835556 ] }",James,2
+"Topeka, KS Metro","{ ""type"": ""Point"", ""coordinates"": [ -95.803087, 39.043680 ] }",James,3
+"Minneapolis-St. Paul-Bloomington, MN-WI Metro","{ ""type"": ""Point"", ""coordinates"": [ -93.344795, 45.051728 ] }",James,4
+"Atlantic City-Hammonton, NJ Metro","{ ""type"": ""Point"", ""coordinates"": [ -74.677538, 39.481753 ] }",James,5
+"Eugene, OR Metro","{ ""type"": ""Point"", ""coordinates"": [ -122.846159, 43.938519 ] }",James,6
+"Salt Lake City, UT Metro","{ ""type"": ""Point"", ""coordinates"": [ -113.041258, 40.447264 ] }",James,7
+"Fayetteville-Springdale-Rogers, AR-MO Metro","{ ""type"": ""Point"", ""coordinates"": [ -94.123458, 36.194649 ] }",Mark,1
+"Atlanta-Sandy Springs-Roswell, GA Metro","{ ""type"": ""Point"", ""coordinates"": [ -84.400798, 33.692203 ] }",Mark,2
+"New Orleans-Metairie, LA Metro","{ ""type"": ""Point"", ""coordinates"": [ -89.967842, 29.934402 ] }",Mark,3
+"Columbia, MO Metro","{ ""type"": ""Point"", ""coordinates"": [ -92.309235, 38.991761 ] }",Mark,4
+"Rochester, NY Metro","{ ""type"": ""Point"", ""coordinates"": [ -77.515170, 42.969919 ] }",Mark,5
+"Providence-Warwick, RI-MA Metro","{ ""type"": ""Point"", ""coordinates"": [ -71.401369, 41.719232 ] }",Mark,6
+"Richmond, VA Metro","{ ""type"": ""Point"", ""coordinates"": [ -77.478352, 37.462083 ] }",Mark,7
+"Denver-Aurora-Lakewood, CO Metro","{ ""type"": ""Point"", ""coordinates"": [ -104.893931, 39.433975 ] }",Scott,1
+"Chicago-Naperville-Elgin, IL-IN-WI Metro","{ ""type"": ""Point"", ""coordinates"": [ -87.962153, 41.702848 ] }",Scott,2
+"Baltimore-Columbia-Towson, MD Metro","{ ""type"": ""Point"", ""coordinates"": [ -76.580825, 39.339686 ] }",Scott,3
+"Lincoln, NE Metro","{ ""type"": ""Point"", ""coordinates"": [ -96.870816, 40.819919 ] }",Scott,4
+"Fargo, ND-MN Metro","{ ""type"": ""Point"", ""coordinates"": [ -96.965552, 46.917820 ] }",Scott,5
+"Sioux Falls, SD Metro","{ ""type"": ""Point"", ""coordinates"": [ -96.990074, 43.499717 ] }",Scott,6
+"Morgantown, WV Metro","{ ""type"": ""Point"", ""coordinates"": [ -79.804105, 39.527107 ] }",Scott,7
+"Dover, DE Metro","{ ""type"": ""Point"", ""coordinates"": [ -75.568385, 39.086100 ] }",Steve,1
+"Cedar Rapids, IA Metro","{ ""type"": ""Point"", ""coordinates"": [ -91.630879, 42.091532 ] }",Steve,2
+"Detroit-Warren-Dearborn, MI Metro","{ ""type"": ""Point"", ""coordinates"": [ -83.236738, 42.721871 ] }",Steve,3
+"Manchester-Nashua, NH Metro","{ ""type"": ""Point"", ""coordinates"": [ -71.716636, 42.915407 ] }",Steve,4
+"Oklahoma City, OK Metro","{ ""type"": ""Point"", ""coordinates"": [ -97.503812, 35.429885 ] }",Steve,5
+"Dallas-Fort Worth-Arlington, TX Metro","{ ""type"": ""Point"", ""coordinates"": [ -97.028989, 32.817835 ] }",Steve,6
+"Cheyenne, WY Metro","{ ""type"": ""Point"", ""coordinates"": [ -104.689616, 41.307065 ] }",Steve,7
