@@ -7,9 +7,9 @@
 - ✅ [🟡 Challenge #3: Running Averages](https://community.alteryx.com/discussion/comment/1234483)
 - ✅ [🟥 Challenge #4: Date Parsing](https://community.alteryx.com/discussion/comment/1227055)
   - [pandas anti-patterns](https://www.aidancooper.co.uk/pandas-anti-patterns/)
-- [Challenge #5: HR Position Finder Application](https://community.alteryx.com/discussion/comment/1227064)
-- [🟡 Challenge #6: Spatial Route](https://community.alteryx.com/discussion/comment/1227094)
-- [🟥 Challenge #7: Download Data and Parse JSON](https://community.alteryx.com/discussion/36734/challenge-7-download-data-and-parse-json)
+- ✅ [Challenge #5: HR Position Finder Application](https://community.alteryx.com/discussion/comment/1227064)
+- ✔️ [🟡 Challenge #6: Spatial Route](https://community.alteryx.com/discussion/comment/1227094)
+- ❌ [🟥 Challenge #7: Download Data and Parse JSON](https://community.alteryx.com/discussion/36734/challenge-7-download-data-and-parse-json)
 - [💚 Challenge #8: Aggregate Consumer Purchases](https://community.alteryx.com/discussion/36735/challenge-8-aggregate-consumer-purchases)
 - [💚 Challenge #9: Analytics
  Ranking](https://community.alteryx.com/discussion/36736/challenge-9-analytics-ranking)
