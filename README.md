@@ -14,7 +14,7 @@
 - ✅ [💚 Challenge #9: Analytics
  Ranking](https://community.alteryx.com/discussion/36736/challenge-9-analytics-ranking)
 - ✅ [🟡 Challenge #10: Date Time Calculations](https://community.alteryx.com/discussion/36737/challenge-10-date-time-calculations)
-- 🔲 [🟡 Challenge #11: Identify Logical Groups](https://community.alteryx.com/discussion/36739/challenge-11-identify-logical-groups)
+- ✅ [🟡 Challenge #11: Identify Logical Groups](https://community.alteryx.com/discussion/36739/challenge-11-identify-logical-groups)
 - 🔲 [🟥 Challenge #12: Creating an HR Hierarchy](https://community.alteryx.com/discussion/36740/challenge-12-creating-an-hr-hierarchy)
 - 🔲 [🟥 Challenge #13: HTML Table Parsing](https://community.alteryx.com/discussion/36741/challenge-13-html-table-parsing)
 - 🔲 [🟡 Challenge #14: Warehouse Distribution](https://community.alteryx.com/discussion/36743/challenge-14-warehouse-distribution)
